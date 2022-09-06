@@ -4,4 +4,4 @@
 
 ## Commands
 
-All commands are HTTP requests to this microservice. Requests are collected in scripts ([ClientCommands](https://github.com/uDEVOPS2020/uTest/tree/main/uTest/clientCommands) folder) to perform functionalities.
+All commands are HTTP requests to this microservice. Requests are collected in scripts ([ClientCommands](https://github.com/uDEVOPS2020/uTest/tree/main/clientCommands) folder) to perform functionalities.
