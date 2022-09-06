@@ -1,5 +1,5 @@
 ## Configuration
-Configuration instructions can be found in configuration file [config.txt](https://github.com/uDEVOPS2020/uTest/blob/main/uTest/clientCommands/initFiles/config.txt).
+Configuration instructions can be found in configuration file [config.txt](https://github.com/uDEVOPS2020/uTest/blob/main/clientCommands/initFiles/config.txt).
 
 ## Specifications
 Folder *"JSONFiles_X"* contains microservices specifications to upload before execution, X is the application name.
